@@ -261,7 +261,8 @@ ls -l /tmp/.suid_bash
 This walkthrough is for **educational purposes only**. Use only on systems you have explicit permission to test. Unauthorized access is illegal.
 
 ## Author
-[pentagon404uzb/cohort-linux-machine]
+## Author
+[pentagon404uzb/cohort-linux-machine](https://github.com/pentagon404uzb/cohort-linux-machine)
 
 ## License
 MIT License - See LICENSE file for details
