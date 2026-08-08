@@ -225,19 +225,6 @@ ls -l /tmp/.suid_bash
 
 ---
 
-## Repository Structure
-```
-.
-├── README.md
-├── exploit/
-│   ├── websocket_rce.py      # Marimo WebSocket exploit
-│   └── exploit.bin           # Pack2TheRoot binary
-├── scripts/
-│   └── linpeas.sh            # Privilege escalation enumeration
-└── walkthrough/
-    └── Cohort HTB Challenge WriteUp.pdf
-```
-
 ## Tools Used
 - **nmap** - Port scanning
 - **python3** - HTTP server, exploit development
