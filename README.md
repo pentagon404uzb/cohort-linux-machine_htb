@@ -1,5 +1,5 @@
 # Cohort HTB Challenge Walkthrough
-
+![Cohort Exploit Demo](cohort.gif)
 ## Challenge Overview
 - **Machine**: Cohort
 - **Difficulty**: Medium (3.5/5)
