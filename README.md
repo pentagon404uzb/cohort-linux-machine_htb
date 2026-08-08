@@ -249,7 +249,7 @@ This walkthrough is for **educational purposes only**. Use only on systems you h
 
 ## Author
 ## Author
-[pentagon404uzb/cohort-linux-machine](https://github.com/pentagon404uzb/cohort-linux-machine)
+[pentagon404uzb/cohort-linux-machine](https://github.com/pentagon404uzb)
 
 ## License
 MIT License - See LICENSE file for details
